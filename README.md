@@ -23,7 +23,7 @@ Former English teacher, so I like pulling a messy attack chain apart until it cl
 - **[Docker Vuln Scanner](https://github.com/surs51/docker-vuln-scanner)** - finds Docker misconfigs and the human-error class of mistakes before they ship.
 - **[cttriage](https://github.com/surs51/cttriage)** - dependency-free triage for AWS CloudTrail dumps; fast digging through account activity when something looks off.
 - **[fgaudit](https://github.com/surs51/FortiGate_Analyzer_Static)** - static analyzer for FortiGate configs; plain-English findings, SARIF for CI (tho double-check for FPs).
-
+- **[IntentWatch](https://github.com/surs51/IntentWatch)** - Detector, agent policy API and guard wallet for NEAR Intents bridge flows. Built at NEAR HACKATHON.
 ---
 
 ## Reach out
